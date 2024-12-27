@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Currently pursuing BCA.<br>👀 I’m interested in development and networking.<br>🌱 I’m currently learning web development programming.<br>📫 How to reach me on my email nileshvedpathak2322@gmail.com</p>
+<p align="left">🚀 Currently pursuing BCA.<br>👀 I’m interested in development and networking.<br>🌱 I’m currently learning C++ programming.<br>📫 How to reach me on my email nileshvedpathak2322@gmail.com</p>
 
 ###
 
